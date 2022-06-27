@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Arkintea&label=Profile%20views&color=0e75b6&style=flat" alt="Arkintea" /> </p>
 
 <div align='center'>
-<img src='https://readme-typing-svg.herokuapp.com/?font=ubuntu&color=16A085&center=true&lines=IIoT+Engineer;Data+Scientist;Data+Enthusiast!'/>
+<img src='https://readme-typing-svg.herokuapp.com/?font=ubuntu&color=16A085&center=true&lines=Industrial+IoT+Engineer;Data+Scientist;Data+Enthusiast!'/>
 </div>
 
 
