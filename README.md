@@ -17,7 +17,7 @@
 
 - 👯 I’m looking to collaborate on IoT and computer vision projects
 
-- 💬 Ask me about industrial IoT solutions, energy solutions, simulation and numeral computation
+- 💬 Ask me about industrial IoT solutions, energy solutions, simulation and numerical computation
 
 ## **LANGUAGES AND TOOLS**
 
