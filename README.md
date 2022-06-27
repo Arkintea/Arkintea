@@ -1,15 +1,15 @@
 <h2 align="center">Hi there 👋, I'm Akintayo Akinpelu </h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajeshraj124&label=Profile%20views&color=0e75b6&style=flat" alt="rajeshraj124" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Arkintea&label=Profile%20views&color=0e75b6&style=flat" alt="Arkintea" /> </p>
 
 <div align='center'>
-<img src='https://readme-typing-svg.herokuapp.com/?font=ubuntu&color=16A085&center=true&lines=Data+Scientist;Data+Analyst;Data+Enthusiast!'/>
+<img src='https://readme-typing-svg.herokuapp.com/?font=ubuntu&color=16A085&center=true&lines=IIoT+Engineer+Data+Scientist;Data+Analyst;Data+Enthusiast!'/>
 </div>
 
 
 ## **ABOUT ME**
 
-- 🔭 I’m currently working as **an Industrial IoT Engineer at Tranter-IT || IoT Africa Networks**
+- 🔭 I’m currently work as **an Industrial IoT Engineer at Tranter-IT || IoT Africa Networks**
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learing, MLops, AIops, NLP and Computer Vision**
 
