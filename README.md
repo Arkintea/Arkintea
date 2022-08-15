@@ -1,7 +1,5 @@
 <h2 align="center">Hi there 👋, I'm Akintayo Akinpelu </h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Arkintea&label=Profile%20views&color=0e75b6&style=flat" alt="Arkintea" /> </p>
-
 <div align='center'>
 <img src='https://readme-typing-svg.herokuapp.com/?font=ubuntu&color=16A085&center=true&lines=Industrial+IoT+Engineer;Data+Scientist;Data+Enthusiast!'/>
 </div>
