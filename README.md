@@ -9,7 +9,7 @@
 
 ## **ABOUT ME**
 
-- 🔭 I’m currently work as **an Industrial IoT Engineer at Tranter-IT || IoT Africa Networks**
+- 🔭 I’m currently working as **an Industrial IoT Engineer at Tranter-IT || IoT Africa Networks**
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learing, MLops, AIops, NLP and Computer Vision**
 
