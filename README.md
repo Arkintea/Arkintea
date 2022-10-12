@@ -40,7 +40,7 @@
  <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> </a>
    <a href="https://www.sqlite.org/index.html" target="_blank"> <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/> </a>
     <a href="https://keras.io/getting_started/" target="_blank"> <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/> </a>
-   <a href="https://pytorch.org/" target="_blank"> <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/> </a>
+   <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/> </a>
 </p>
 <br/>
 
