@@ -9,15 +9,13 @@
 
 ## **ABOUT ME**
 
-- 🔭 I’m currently working as **an Industrial IoT Engineer at Tranter-IT || IoT Africa Networks**
-
-- 🌱 I’m currently learning **Machine Learning, Deep Learing, MLops, AIops, NLP and Computer Vision**
+- 🔭 I currently work as **a Digital Transformation Engineer at WMG**
 
 - 💻 Check my Projects and other Repos [HERE](https://github.com/Arkintea?tab=repositories)
 
-- 👯 I’m looking to collaborate on IoT and computer vision projects
+- 👯 I’m open to collaborate on projects
 
-- 💬 Ask me about industrial IoT solutions, energy solutions, simulation and numerical computation
+- 💬 Ask me about Data Science, Machine Learning, AI and industrial IoT solutions
 
 ## **LANGUAGES AND TOOLS**
 
